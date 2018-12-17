@@ -4,8 +4,6 @@
 #include <fstream>
 #include <sys/stat.h>
 
-//Basic Html File Handlings can be done better by using Regular Expressions
-//Does not support all the tags! Basic tag Support is availables
 
 class htmlTasks {
 private:
